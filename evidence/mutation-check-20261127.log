@@ -1,0 +1,6 @@
+A-phase: 26 passed in 0.04s
+M1-subject-too-long: targeted test FAILED as expected
+M2-validity-72h-to-48h: targeted test FAILED as expected
+M3-plaintext-password: targeted test FAILED as expected
+caught 3/3 mutants
+MUTATION CHECK: PASS
